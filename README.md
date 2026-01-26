@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋 My name is Rozy Jumayew</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rozy-ai" alt="rozy-ai" /></a> </p>
-
 - 🌱 I’m currently learning **golang, laravel, yii2**
 
 - 👨‍💻 All of my projects are available at [https://rozy-ai.github.io/](https://rozy-ai.github.io/)
