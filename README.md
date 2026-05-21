@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋 My name is Rozy Jumayew</h1>
 <h3 align="center">Senior Full Stack Engineer with 5+ years of experience building scalable web applications, backend systems, cloud infrastructure and AI-powered automations.</h3>
 
+Currently focused on:
+- Golang backend systems
+- AI integrations & automation
+- Cloud & DevOps
+- High-performance APIs
+- Scalable SaaS platforms
+
 ## 📫 How to reach me
 
 | Platform | Link | Purpose |
