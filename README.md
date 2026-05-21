@@ -85,3 +85,12 @@ Currently focused on:
 <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> 
 </a>
+
+<!-- SNAKE ANIMATION -->
+<h3 align="left">🐍 Contribution Snake</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rozy-ai/Rozy-ai/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rozy-ai/Rozy-ai/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Rozy-ai/Rozy-ai/output/github-snake.svg" />
+</picture>
